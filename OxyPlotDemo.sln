@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxyPlotDemo", "OxyPlotDemo\OxyPlotDemo.csproj", "{68BD5FC6-225E-4DE9-BA52-00301D9407FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68BD5FC6-225E-4DE9-BA52-00301D9407FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BD5FC6-225E-4DE9-BA52-00301D9407FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BD5FC6-225E-4DE9-BA52-00301D9407FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BD5FC6-225E-4DE9-BA52-00301D9407FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FFAC9CD-2369-4675-A84A-B9249660DCCC}
+	EndGlobalSection
+EndGlobal
